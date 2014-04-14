@@ -171,7 +171,7 @@ a:active {
 }
 
 #about {
-  padding: 10px 10px 0 10px;
+  padding: 10px 10px 0;
   margin-top: 30px;
 }
 #about ol li {
@@ -210,13 +210,13 @@ a:active {
   border-bottom: #eeeeee solid 1px;
 }
 #about ol li p {
-  padding: 10px 0 0 0;
-  margin: 0 0 1.2em 0;
+  padding: 10px 0 0;
+  margin: 0 0 1.2em;
   line-height: 1.4;
 }
 #body {
   clear: both;
-  padding: 40px 10px 0 10px;
+  padding: 40px 10px 0;
   overflow: hidden;
   *zoom: 1;
 }
@@ -228,8 +228,8 @@ a:active {
   font-size: 22px;
   font-weight: bold;
   line-height: 1.3;
-  padding: 0 0 4px 0;
-  margin: 0 0 10px 0;
+  padding: 0 0 4px;
+  margin: 0 0 10px;
   border-bottom: #dddddd solid 1px;
   -webkit-box-shadow: white 0 1px 0;
   -moz-box-shadow: white 0 1px 0;
@@ -239,7 +239,7 @@ a:active {
   font-size: 153.9%;
   font-weight: bold;
   line-height: 1.4;
-  margin: 0 0 6px 0;
+  margin: 0 0 6px;
 }
 #main .breadcrumbs {
   padding: 0 0 5px 3px;
@@ -256,7 +256,6 @@ a:active {
 }
 #articles {
   width: 725px;
-  padding: 0 0px;
 }
 #articles article {
   background: #f9f9f9;
@@ -266,14 +265,14 @@ a:active {
   -o-border-radius: 5px;
   border-radius: 5px;
   padding: 18px 16px;
-  margin: 0 0 20px 0;
+  margin: 0 0 20px;
   -webkit-box-shadow: rgba(0, 0, 0, 0.2) 0 2px 2px;
   -moz-box-shadow: rgba(0, 0, 0, 0.2) 0 2px 2px;
   box-shadow: rgba(0, 0, 0, 0.2) 0 2px 2px;
 }
 #articles article header {
   border-bottom: #dddddd solid 1px;
-  padding: 0 0 4px 0;
+  padding: 0 0 4px;
   -webkit-box-shadow: white 0 1px 0;
   -moz-box-shadow: white 0 1px 0;
   box-shadow: white 0 1px 0;
@@ -284,30 +283,30 @@ a:active {
   color: #999999;
 }
 #articles article .body {
-  padding: 10px 0 0 0;
+  padding: 10px 0 0;
   border-bottom: dotted 1px #dddddd;
 }
 #articles article .body p {
   font-size: 108%;
-  margin: 0 0 1.4em 0;
+  margin: 0 0 1.4em;
   line-height: 1.7;
 }
 #articles article .body h4 {
   font-size: 138.5%;
   font-weight: bold;
-  margin: 0 0 0.8em 0;
+  margin: 0 0 0.8em;
   padding: 2px 0 2px 8px;
   border-left: 6px solid #444444;
 }
 #articles article .body h5 {
   font-size: 123.1%;
   font-weight: bold;
-  margin: 0 0 0.8em 0;
+  margin: 0 0 0.8em;
 }
 #articles article .body h6 {
   font-size: 108%;
   font-weight: bold;
-  margin: 0 0 0.8em 0;
+  margin: 0 0 0.8em;
 }
 #articles article .body h6:before {
   content: "■";
@@ -326,10 +325,10 @@ a:active {
 }
 #articles article .body li {
   line-height: 1.6;
-  margin: 0 0 0.6em 0;
+  margin: 0 0 0.6em;
 }
 #articles article .body table {
-  margin: 0 0 1.4em 0;
+  margin: 0 0 1.4em;
 }
 #articles article .body table th,
 #articles article .body table td {
@@ -342,7 +341,7 @@ a:active {
   font-weight: bold;
 }
 #articles article footer {
-  padding: 18px 0 0 0;
+  padding: 18px 0 0;
 }
 #articles article footer dl {
   color: #999999;
@@ -356,7 +355,7 @@ a:active {
 aside#comments {
   width: 725px;
   color: #555555;
-  margin: 0 0 10px 0;
+  margin: 0 0 10px;
 }
 aside#comments h3 {
   border-bottom: #dddddd solid 1px;
@@ -375,14 +374,14 @@ aside#comments ul li {
   -o-border-radius: 5px;
   border-radius: 5px;
   padding: 9px 16px;
-  margin: 10px 0 0px 0;
+  margin: 10px 0 0;
   -webkit-box-shadow: rgba(0, 0, 0, 0.2) 0 2px 2px;
   -moz-box-shadow: rgba(0, 0, 0, 0.2) 0 2px 2px;
   box-shadow: rgba(0, 0, 0, 0.2) 0 2px 2px;
 }
 aside#comments ul li p {
   line-height: 1.4;
-  margin: 0 0 6px 0;
+  margin: 0 0 6px;
 }
 aside#comments ul li dl {
   color: #999999;
@@ -406,17 +405,17 @@ aside#comments ul li dl dd {
   -ms-border-radius: 5px;
   -o-border-radius: 5px;
   border-radius: 5px;
-  margin: 0 0 10px 0;
+  margin: 0 0 10px;
 }
 #sub nav#local ul {
   border-bottom: #dddddd solid 1px;
-  margin: 0 0 10px 0;
+  margin: 0 0 10px;
 }
 #sub nav#local ul li a {
   display: block;
   background: #C5DAC0;
   line-height: 20px;
-  padding: 20px 8px 4px 8px;
+  padding: 20px 8px 4px;
   border-left: #dddddd solid 1px;
   border-right: #dddddd solid 1px;
   -webkit-box-shadow: rgba(255, 255, 255, 0.4) 0 1px 1px inset;
@@ -431,7 +430,7 @@ aside#comments ul li dl dd {
   -webkit-box-shadow: black 0px 1px 2px inset;
   -moz-box-shadow: black 0px 1px 2px inset;
   box-shadow: black 0px 1px 2px inset;
-  margin: 30px 0 0 0;
+  margin: 30px 0 0;
   padding: 0 0 0 13px;
   color: white;
 }
@@ -439,7 +438,7 @@ aside#comments ul li dl dd {
   text-align: left;
 }
 #footer nav ul {
-  padding: 20px 0 20px 0;
+  padding: 20px 0;
 }
 #footer nav ul li {
   display: inline;
